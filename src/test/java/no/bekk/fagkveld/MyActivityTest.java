@@ -1,4 +1,4 @@
-package test.java;
+package no.bekk.fagkveld;
 
 import org.junit.Before;
 import org.junit.Test;
