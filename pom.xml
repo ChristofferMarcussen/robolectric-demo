@@ -7,6 +7,7 @@
     <groupId>no.bekk.fagkveld</groupId>
     <artifactId>Fagkveld</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>apk</packaging>
     <properties>
         <maven-compiler-plugin.version>3.1</maven-compiler-plugin.version>
     </properties>
@@ -16,11 +17,13 @@
             <groupId>org.robolectric</groupId>
             <artifactId>robolectric</artifactId>
             <version>2.0-alpha-2</version>
+            <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.8.2</version>
+            <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>com.google.android</groupId>
