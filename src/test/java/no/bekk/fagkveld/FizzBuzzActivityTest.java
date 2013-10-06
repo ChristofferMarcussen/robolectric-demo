@@ -1,4 +1,4 @@
-package no.bekk.fagkveld;
+package test.java.no.bekk.fagkveld;
 
 import android.widget.Button;
 import android.widget.EditText;
@@ -8,6 +8,9 @@ import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.robolectric.RobolectricTestRunner;
+
+import no.bekk.fagkveld.FizzBuzzActivity;
+import no.bekk.fagkveld.R;
 
 import static junit.framework.Assert.assertEquals;
 

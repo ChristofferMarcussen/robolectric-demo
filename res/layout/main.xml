@@ -8,15 +8,13 @@
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="number"
-        android:ems="10"
         android:id="@+id/input"
         android:layout_gravity="left|center_vertical" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Kalkuler"
+        android:text="Trykk her"
         android:id="@+id/knapp"
         android:layout_gravity="left|center_vertical" />
 
