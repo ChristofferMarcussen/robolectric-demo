@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">Fagkveld</string>
     <string name="pressHere">Trykk her!</string>
+    <string name="server_url">http://server.url/</string>
 </resources>
